@@ -9,6 +9,8 @@
 
 - [List to sparse incidence matrix converter](https://github.com/TylerSagendorf/list2mat)
 
+- [Simulating diffusion-limited aggregation (DLA)](https://github.com/TylerSagendorf/DLA)
+
 ## Other Contributions
 
 - Improved performance of the `fsum()` and `fmean()` functions in the `collapse` R package: [collapse v2.1.7 release notes](https://github.com/fastverse/collapse/releases/tag/v2.1.7).
